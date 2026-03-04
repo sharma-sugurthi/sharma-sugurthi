@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">I'm Manisharma Sugurthi and a aspiring Software Engineer.<br><br>- 🔭 I’m studying ar RGUKT ONGOLE<br>- 📚 I'm currently working on an Open-Source Project named BabyNest. <br>- ⚡ In my free time I participate in Business and Tech Quizzes.</p>
+<p align="left">I'm Manisharma Sugurthi and a aspiring Software Engineer.<br><br>- 🔭 I’m studying ar RGUKT ONGOLE<br>- 📚 I'm currently working on an Open-Source Project of Jenkins. <br>- ⚡ In my free time I participate in Business and Tech Quizzes.</p>
 
 ###
 
