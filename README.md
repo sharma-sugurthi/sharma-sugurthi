@@ -20,7 +20,7 @@
 
 ## 💫 About Me
 
-- 🎓 Studying at **RGUKT Ongole**
+- 🎓 Studied at **RGUKT Ongole**
 - 🔭 Currently contributing to an **open-source Jenkins project**
 - 🧠 Focused on **backend engineering, APIs, and full-stack development**
 - ⚡ Enjoy **business + tech quizzes** and continuous upskilling
