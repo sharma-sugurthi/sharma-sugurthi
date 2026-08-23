@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b132b,50:1c2541,100:3a506b&text=Manisharma%20Sugurthi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Aspiring%20Software%20Engineer%20%E2%80%A2%20Open%20Source%20Learner&descAlignY=60" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0b132b,50:1c2541,100:3a506b&text=Manisharma%20Sugurthi&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%20Software%20Engineer%20%E2%80%A2%20Open%20Source%20Learner&descAlignY=60" alt="Header" />
 </div>
 
 <div align="center">
@@ -20,9 +20,9 @@
 
 ## 💫 About Me
 
+- 🔭 Currently founding **PolicyCrab**
 - 🎓 Studied at **RGUKT Ongole**
-- 🔭 Currently contributing to an **open-source Jenkins project**
-- 🧠 Focused on **backend engineering, APIs, and full-stack development**
+- 🧠 Focused on **AI Engineering, APIs, and full-stack development**
 - ⚡ Enjoy **business + tech quizzes** and continuous upskilling
 
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2f5f6f79-7f57-4f52-8b11-76143e8f7f8d.gif" width="100%" alt="Divider" />
