@@ -51,11 +51,3 @@
 </div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212744275-2f5f6f79-7f57-4f52-8b11-76143e8f7f8d.gif" width="100%" alt="Divider" />
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sharma-sugurthi/sharma-sugurthi/output/snake.svg" alt="Snake animation" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0b132b,50:1c2541,100:3a506b" width="100%" alt="Footer" />
