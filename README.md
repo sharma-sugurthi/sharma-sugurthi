@@ -63,6 +63,7 @@ Strongest in Python (Django, FastAPI), REST API design, and Postgres. I also wor
 
 ## Other projects worth a look
 
+- **sales-voice-agent**, An autonomous voice agent that conducts real outbound sales calls for e-commerce website development.
 - **agency-client-tracker**, a production-grade B2B CRM API built with Django REST Framework. JWT auth, tagging system, CSV imports, automated tests
 - **career-support-voice-agent**, a voice agent for college placement and career support
 - **sawtoothwave-generator-fossee**, a FOSSEE (IIT Bombay) project on designing and verifying sawtooth and triangular wave generators
